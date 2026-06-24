@@ -1,0 +1,15 @@
+a{
+  color:red;
+}
+a:hover{
+  color:pink;
+}
+a:visited{
+  color:green;
+}
+a:focus{
+  color:blue;
+}
+font-weigth: bolder{
+
+}
